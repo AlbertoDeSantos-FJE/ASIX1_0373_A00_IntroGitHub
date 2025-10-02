@@ -26,10 +26,15 @@ sduuhgerliuhg lieurh giureg liufdhgilufhgldhflvdghsflvhlkjvdblfhjvb lfhbvkdfn vm
 ```html
 <p>Esto es un párrafo</p>
 ```
-[link](https://markdown.es/ "Manual oficial de Markdown")
+[Manual oficial de Markdown](https://markdown.es/ "Texto adicional sobre el enlace")
 
 ![alt text](./imagen1.jpg "Imagen random de un archivo")
 
+
+|Jugador|Equipo|Nombre|
+|32|Lakers|Magic Johnson|
+|33|Celtics|Boston Celtics|
+|23|Bulls|Michael "air" Jordan|
 
 
 
